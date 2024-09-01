@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd00e9a-658d-4090-8646-d6953359a65c" name="Changes" comment="Starter">
-      <change afterPath="$PROJECT_DIR$/output.png" afterDir="false" />
+    <list default="true" id="dfd00e9a-658d-4090-8646-d6953359a65c" name="Changes" comment="Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openfoodfacts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/openfoodfacts.ipynb" afterDir="false" />
     </list>
@@ -99,6 +98,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fixup! ajout csv avec lfs'" />
     <MESSAGE value="Starter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starter" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
 </project>
