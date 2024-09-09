@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd00e9a-658d-4090-8646-d6953359a65c" name="Changes" comment="Final">
+    <list default="true" id="dfd00e9a-658d-4090-8646-d6953359a65c" name="Changes" comment="ACP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openfoodfacts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/openfoodfacts.ipynb" afterDir="false" />
     </list>
@@ -66,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-65c742565061-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.14475.37" />
+        <option value="bundled-python-sdk-dfa052c5310b-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.15325.25" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +99,8 @@
     <MESSAGE value="fixup! ajout csv avec lfs'" />
     <MESSAGE value="Starter" />
     <MESSAGE value="Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+    <MESSAGE value="ANOVA" />
+    <MESSAGE value="ACP" />
+    <option name="LAST_COMMIT_MESSAGE" value="ACP" />
   </component>
 </project>
