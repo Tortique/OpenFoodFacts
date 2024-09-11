@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfd00e9a-658d-4090-8646-d6953359a65c" name="Changes" comment="ACP">
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openfoodfacts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/openfoodfacts.ipynb" afterDir="false" />
     </list>
@@ -27,14 +28,12 @@
     &quot;assignee&quot;: &quot;Tortique&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="064dcf70-3c79-478f-a0e4-fa27046ee0c2" />
-        <option name="url" value="https://github.com/Tortique/OpenFoodFacts.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tortique/OpenFoodFacts.git",
+    "accountId": "064dcf70-3c79-478f-a0e4-fa27046ee0c2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -66,7 +65,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfa052c5310b-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.15325.25" />
+        <option value="bundled-python-sdk-f1e2692396bc-1e58bffe31b7-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-242.21829.112" />
       </set>
     </attachedChunks>
   </component>
